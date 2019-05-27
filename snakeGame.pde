@@ -1,7 +1,7 @@
 
 /* THE ETERNAL SNAKE !!
- * Created on 23rd May (saal jaanke kya karoge ?)
- * Author - Pratik Gupta B-)
+ * Created on 23rd May 2019
+ * Author - Pratik Gupta 
  * The purpose of this project is absolutely nothing but still under development.
  * If you want to add some features into the game, you're absolutely welcome.
  * The variable nomenclature is pretty lame !!
